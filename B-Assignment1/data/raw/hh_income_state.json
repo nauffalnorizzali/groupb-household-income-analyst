@@ -1,0 +1,1922 @@
+{
+  "dataset_id": "hh_income_state",
+  "source_url": "https://api.data.gov.my/data-catalogue/?id=hh_income_state",
+  "retrieved_at_utc": "2026-10-26T07:57:56+00:00",
+  "record_count": 319,
+  "records": [
+    {
+      "date": "1970-01-01",
+      "state": "Johor",
+      "income_mean": 237,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Johor",
+      "income_mean": 382,
+      "income_median": 269.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Johor",
+      "income_mean": 513,
+      "income_median": 370.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Johor",
+      "income_mean": 731,
+      "income_median": 518.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Johor",
+      "income_mean": 1065,
+      "income_median": 793.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Johor",
+      "income_mean": 1060,
+      "income_median": 816.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Johor",
+      "income_mean": 1150,
+      "income_median": 880.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Johor",
+      "income_mean": 1713,
+      "income_median": 1225.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Johor",
+      "income_mean": 2138,
+      "income_median": 1610.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Johor",
+      "income_mean": 2772,
+      "income_median": 2056.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Johor",
+      "income_mean": 2646,
+      "income_median": 2012.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Johor",
+      "income_mean": 2963,
+      "income_median": 2212.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Johor",
+      "income_mean": 3076,
+      "income_median": 2325.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Johor",
+      "income_mean": 3457,
+      "income_median": 2726.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Johor",
+      "income_mean": 3835,
+      "income_median": 2958.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Johor",
+      "income_mean": 4658,
+      "income_median": 3650.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Johor",
+      "income_mean": 6207,
+      "income_median": 5197.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Johor",
+      "income_mean": 6928,
+      "income_median": 5652.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Johor",
+      "income_mean": 8013,
+      "income_median": 6427.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Johor",
+      "income_mean": 7264,
+      "income_median": 5690.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Johor",
+      "income_mean": 8517,
+      "income_median": 6879.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Johor",
+      "income_mean": 9484,
+      "income_median": 7712.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Kedah",
+      "income_mean": 189,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Kedah",
+      "income_mean": 256,
+      "income_median": 151.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Kedah",
+      "income_mean": 306,
+      "income_median": 193.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Kedah",
+      "income_mean": 382,
+      "income_median": 259.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Kedah",
+      "income_mean": 690,
+      "income_median": 472.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Kedah",
+      "income_mean": 718,
+      "income_median": 531.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Kedah",
+      "income_mean": 749,
+      "income_median": 552.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Kedah",
+      "income_mean": 1048,
+      "income_median": 758.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Kedah",
+      "income_mean": 1295,
+      "income_median": 990.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Kedah",
+      "income_mean": 1590,
+      "income_median": 1171.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Kedah",
+      "income_mean": 1612,
+      "income_median": 1225.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Kedah",
+      "income_mean": 1966,
+      "income_median": 1451.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Kedah",
+      "income_mean": 2126,
+      "income_median": 1607.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Kedah",
+      "income_mean": 2408,
+      "income_median": 1756.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Kedah",
+      "income_mean": 2667,
+      "income_median": 1966.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Kedah",
+      "income_mean": 3425,
+      "income_median": 2633.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Kedah",
+      "income_mean": 4478,
+      "income_median": 3451.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Kedah",
+      "income_mean": 4971,
+      "income_median": 3811.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Kedah",
+      "income_mean": 5522,
+      "income_median": 4325.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Kedah",
+      "income_mean": 5005,
+      "income_median": 3829.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Kedah",
+      "income_mean": 5550,
+      "income_median": 4402.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Kedah",
+      "income_mean": 5793,
+      "income_median": 4895.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Kelantan",
+      "income_mean": 151,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Kelantan",
+      "income_mean": 231,
+      "income_median": 108.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Kelantan",
+      "income_mean": 269,
+      "income_median": 163.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Kelantan",
+      "income_mean": 341,
+      "income_median": 256.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Kelantan",
+      "income_mean": 625,
+      "income_median": 436.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Kelantan",
+      "income_mean": 667,
+      "income_median": 482.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Kelantan",
+      "income_mean": 712,
+      "income_median": 528.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Kelantan",
+      "income_mean": 907,
+      "income_median": 632.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Kelantan",
+      "income_mean": 1091,
+      "income_median": 789.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Kelantan",
+      "income_mean": 1249,
+      "income_median": 872.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Kelantan",
+      "income_mean": 1314,
+      "income_median": 946.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Kelantan",
+      "income_mean": 1674,
+      "income_median": 1154.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Kelantan",
+      "income_mean": 1829,
+      "income_median": 1258.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Kelantan",
+      "income_mean": 2143,
+      "income_median": 1510.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Kelantan",
+      "income_mean": 2536,
+      "income_median": 1713.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Kelantan",
+      "income_mean": 3168,
+      "income_median": 2276.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Kelantan",
+      "income_mean": 3715,
+      "income_median": 2716.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Kelantan",
+      "income_mean": 4214,
+      "income_median": 3079.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Kelantan",
+      "income_mean": 4874,
+      "income_median": 3563.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Kelantan",
+      "income_mean": 4411,
+      "income_median": 3010.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Kelantan",
+      "income_mean": 4885,
+      "income_median": 3614.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Kelantan",
+      "income_mean": 5265,
+      "income_median": 4083.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Melaka",
+      "income_mean": 265,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Melaka",
+      "income_mean": 410,
+      "income_median": 255.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Melaka",
+      "income_mean": 568,
+      "income_median": 350.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Melaka",
+      "income_mean": 772,
+      "income_median": 528.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Melaka",
+      "income_mean": 1040,
+      "income_median": 738.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Melaka",
+      "income_mean": 1034,
+      "income_median": 780.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Melaka",
+      "income_mean": 1084,
+      "income_median": 828.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Melaka",
+      "income_mean": 1459,
+      "income_median": 1118.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Melaka",
+      "income_mean": 1843,
+      "income_median": 1391.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Melaka",
+      "income_mean": 2276,
+      "income_median": 1793.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Melaka",
+      "income_mean": 2260,
+      "income_median": 1715.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Melaka",
+      "income_mean": 2650,
+      "income_median": 2051.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Melaka",
+      "income_mean": 2791,
+      "income_median": 2308.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Melaka",
+      "income_mean": 3421,
+      "income_median": 2717.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Melaka",
+      "income_mean": 4184,
+      "income_median": 3005.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Melaka",
+      "income_mean": 4759,
+      "income_median": 3923.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Melaka",
+      "income_mean": 6046,
+      "income_median": 5029.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Melaka",
+      "income_mean": 6849,
+      "income_median": 5588.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Melaka",
+      "income_mean": 7741,
+      "income_median": 6054.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Melaka",
+      "income_mean": 7186,
+      "income_median": 5447.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Melaka",
+      "income_mean": 8057,
+      "income_median": 6210.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Melaka",
+      "income_mean": 8686,
+      "income_median": 6891.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 286,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 386,
+      "income_median": 273.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 505,
+      "income_median": 348.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 629,
+      "income_median": 486.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 1039,
+      "income_median": 753.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 908,
+      "income_median": 674.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 1083,
+      "income_median": 842.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 1380,
+      "income_median": 987.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 1767,
+      "income_median": 1358.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 2378,
+      "income_median": 1731.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 2335,
+      "income_median": 1777.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 2739,
+      "income_median": 2080.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 2886,
+      "income_median": 2288.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 3336,
+      "income_median": 2556.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 3540,
+      "income_median": 2711.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 4576,
+      "income_median": 3575.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 5271,
+      "income_median": 4128.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 5887,
+      "income_median": 4579.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 6707,
+      "income_median": 5005.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 6184,
+      "income_median": 4478.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 6788,
+      "income_median": 5226.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Negeri Sembilan",
+      "income_mean": 7305,
+      "income_median": 5591.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Pahang",
+      "income_mean": 286,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Pahang",
+      "income_mean": 305,
+      "income_median": 210.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Pahang",
+      "income_mean": 477,
+      "income_median": 324.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Pahang",
+      "income_mean": 702,
+      "income_median": 481.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Pahang",
+      "income_mean": 960,
+      "income_median": 731.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Pahang",
+      "income_mean": 900,
+      "income_median": 697.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Pahang",
+      "income_mean": 961,
+      "income_median": 764.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Pahang",
+      "income_mean": 1262,
+      "income_median": 957.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Pahang",
+      "income_mean": 1436,
+      "income_median": 1138.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Pahang",
+      "income_mean": 1632,
+      "income_median": 1259.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Pahang",
+      "income_mean": 1482,
+      "income_median": 1202.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Pahang",
+      "income_mean": 1991,
+      "income_median": 1423.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Pahang",
+      "income_mean": 2410,
+      "income_median": 1783.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Pahang",
+      "income_mean": 2995,
+      "income_median": 2235.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Pahang",
+      "income_mean": 3279,
+      "income_median": 2479.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Pahang",
+      "income_mean": 3745,
+      "income_median": 3067.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Pahang",
+      "income_mean": 4343,
+      "income_median": 3389.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Pahang",
+      "income_mean": 5012,
+      "income_median": 3979.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Pahang",
+      "income_mean": 5667,
+      "income_median": 4440.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Pahang",
+      "income_mean": 5144,
+      "income_median": 4033.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Pahang",
+      "income_mean": 5777,
+      "income_median": 4753.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Pahang",
+      "income_mean": 6066,
+      "income_median": 4975.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Perak",
+      "income_mean": 254,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Perak",
+      "income_mean": 305,
+      "income_median": 213.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Perak",
+      "income_mean": 436,
+      "income_median": 286.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Perak",
+      "income_mean": 559,
+      "income_median": 394.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Perak",
+      "income_mean": 883,
+      "income_median": 646.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Perak",
+      "income_mean": 863,
+      "income_median": 659.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Perak",
+      "income_mean": 973,
+      "income_median": 719.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Perak",
+      "income_mean": 1274,
+      "income_median": 958.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Perak",
+      "income_mean": 1436,
+      "income_median": 1102.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Perak",
+      "income_mean": 1940,
+      "income_median": 1522.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Perak",
+      "income_mean": 1743,
+      "income_median": 1350.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Perak",
+      "income_mean": 2153,
+      "income_median": 1613.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Perak",
+      "income_mean": 2207,
+      "income_median": 1732.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Perak",
+      "income_mean": 2545,
+      "income_median": 1905.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Perak",
+      "income_mean": 2809,
+      "income_median": 2094.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Perak",
+      "income_mean": 3548,
+      "income_median": 2665.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Perak",
+      "income_mean": 4268,
+      "income_median": 3451.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Perak",
+      "income_mean": 5065,
+      "income_median": 4006.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Perak",
+      "income_mean": 5645,
+      "income_median": 4273.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Perak",
+      "income_mean": 5081,
+      "income_median": 3759.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Perak",
+      "income_mean": 5779,
+      "income_median": 4494.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Perak",
+      "income_mean": 6173,
+      "income_median": 4687.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Perlis",
+      "income_mean": 140,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Perlis",
+      "income_mean": 206,
+      "income_median": 147.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Perlis",
+      "income_mean": 338,
+      "income_median": 196.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Perlis",
+      "income_mean": 316,
+      "income_median": 223.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Perlis",
+      "income_mean": 692,
+      "income_median": 485.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Perlis",
+      "income_mean": 711,
+      "income_median": 544.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Perlis",
+      "income_mean": 817,
+      "income_median": 635.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Perlis",
+      "income_mean": 1040,
+      "income_median": 761.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Perlis",
+      "income_mean": 1158,
+      "income_median": 889.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Perlis",
+      "income_mean": 1507,
+      "income_median": 1114.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Perlis",
+      "income_mean": 1431,
+      "income_median": 1086.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Perlis",
+      "income_mean": 2006,
+      "income_median": 1431.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Perlis",
+      "income_mean": 2046,
+      "income_median": 1459.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Perlis",
+      "income_mean": 2541,
+      "income_median": 1746.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Perlis",
+      "income_mean": 2617,
+      "income_median": 1832.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Perlis",
+      "income_mean": 3538,
+      "income_median": 2387.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Perlis",
+      "income_mean": 4445,
+      "income_median": 3500.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Perlis",
+      "income_mean": 4998,
+      "income_median": 4204.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Perlis",
+      "income_mean": 5476,
+      "income_median": 4594.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Perlis",
+      "income_mean": 4971,
+      "income_median": 4043.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Perlis",
+      "income_mean": 5664,
+      "income_median": 4713.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Perlis",
+      "income_mean": 5996,
+      "income_median": 4950.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 292,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 471,
+      "income_median": 241.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 589,
+      "income_median": 363.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 840,
+      "income_median": 534.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 1183,
+      "income_median": 812.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 1130,
+      "income_median": 833.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 1326,
+      "income_median": 988.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 1821,
+      "income_median": 1365.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 2225,
+      "income_median": 1693.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 3130,
+      "income_median": 2338.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 3128,
+      "income_median": 2323.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 3496,
+      "income_median": 2572.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 3531,
+      "income_median": 2650.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 4004,
+      "income_median": 2902.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 4407,
+      "income_median": 3200.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 5055,
+      "income_median": 4039.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 5993,
+      "income_median": 4702.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 6771,
+      "income_median": 5409.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 7774,
+      "income_median": 6169.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 6850,
+      "income_median": 5474.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 8267,
+      "income_median": 6502.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Pulau Pinang",
+      "income_mean": 9152,
+      "income_median": 7386.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Sabah",
+      "income_mean": 513,
+      "income_median": 309.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Sabah",
+      "income_mean": 767,
+      "income_median": 493.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Sabah",
+      "income_mean": 1212,
+      "income_median": 749.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Sabah",
+      "income_mean": 1116,
+      "income_median": 726.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Sabah",
+      "income_mean": 1264,
+      "income_median": 863.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Sabah",
+      "income_mean": 1490,
+      "income_median": 994.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Sabah",
+      "income_mean": 1647,
+      "income_median": 1133.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Sabah",
+      "income_mean": 2057,
+      "income_median": 1390.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Sabah",
+      "income_mean": 1905,
+      "income_median": 1264.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Sabah",
+      "income_mean": 2406,
+      "income_median": 1583.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Sabah",
+      "income_mean": 2487,
+      "income_median": 1606.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Sabah",
+      "income_mean": 2837,
+      "income_median": 1189.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Sabah",
+      "income_mean": 3102,
+      "income_median": 2066.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Sabah",
+      "income_mean": 4013,
+      "income_median": 2860.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Sabah",
+      "income_mean": 4879,
+      "income_median": 3745.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Sabah",
+      "income_mean": 5354,
+      "income_median": 4110.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Sabah",
+      "income_mean": 5745,
+      "income_median": 4235.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Sabah",
+      "income_mean": 5215,
+      "income_median": 3773.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Sabah",
+      "income_mean": 6171,
+      "income_median": 4577.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Sabah",
+      "income_mean": 6498,
+      "income_median": 4890.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Sarawak",
+      "income_mean": 426,
+      "income_median": 260.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Sarawak",
+      "income_mean": 582,
+      "income_median": 365.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Sarawak",
+      "income_mean": 1033,
+      "income_median": 660.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Sarawak",
+      "income_mean": 1141,
+      "income_median": 754.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Sarawak",
+      "income_mean": 1190,
+      "income_median": 819.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Sarawak",
+      "income_mean": 1480,
+      "income_median": 999.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Sarawak",
+      "income_mean": 1886,
+      "income_median": 1305.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Sarawak",
+      "income_mean": 2242,
+      "income_median": 1499.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Sarawak",
+      "income_mean": 2276,
+      "income_median": 1667.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Sarawak",
+      "income_mean": 2515,
+      "income_median": 1704.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Sarawak",
+      "income_mean": 2725,
+      "income_median": 1804.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Sarawak",
+      "income_mean": 3349,
+      "income_median": 2250.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Sarawak",
+      "income_mean": 3581,
+      "income_median": 2394.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Sarawak",
+      "income_mean": 4293,
+      "income_median": 3047.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Sarawak",
+      "income_mean": 4934,
+      "income_median": 3778.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Sarawak",
+      "income_mean": 5387,
+      "income_median": 4163.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Sarawak",
+      "income_mean": 5959,
+      "income_median": 4544.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Sarawak",
+      "income_mean": 5087,
+      "income_median": 3831.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Sarawak",
+      "income_mean": 6457,
+      "income_median": 4978.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Sarawak",
+      "income_mean": 6947,
+      "income_median": 5504.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Selangor",
+      "income_mean": 421,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Selangor",
+      "income_mean": 598,
+      "income_median": 363.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Selangor",
+      "income_mean": 735,
+      "income_median": 441.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Selangor",
+      "income_mean": 1067,
+      "income_median": 647.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Selangor",
+      "income_mean": 1590,
+      "income_median": 1010.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Selangor",
+      "income_mean": 1558,
+      "income_median": 1049.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Selangor",
+      "income_mean": 1658,
+      "income_median": 1145.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Selangor",
+      "income_mean": 2280,
+      "income_median": 1572.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Selangor",
+      "income_mean": 3162,
+      "income_median": 2255.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Selangor",
+      "income_mean": 4006,
+      "income_median": 2850.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Selangor",
+      "income_mean": 3702,
+      "income_median": 2750.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Selangor",
+      "income_mean": 4406,
+      "income_median": 3144.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Selangor",
+      "income_mean": 5175,
+      "income_median": 3588.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Selangor",
+      "income_mean": 5580,
+      "income_median": 4046.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Selangor",
+      "income_mean": 5962,
+      "income_median": 4306.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Selangor",
+      "income_mean": 7023,
+      "income_median": 5353.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Selangor",
+      "income_mean": 8252,
+      "income_median": 6214.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Selangor",
+      "income_mean": 9463,
+      "income_median": 7225.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Selangor",
+      "income_mean": 10827,
+      "income_median": 8210.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Selangor",
+      "income_mean": 9668,
+      "income_median": 7300.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Selangor",
+      "income_mean": 12233,
+      "income_median": 9983.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Selangor",
+      "income_mean": 13296,
+      "income_median": 10726.0
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Terengganu",
+      "income_mean": 173,
+      "income_median": null
+    },
+    {
+      "date": "1974-01-01",
+      "state": "Terengganu",
+      "income_mean": 206,
+      "income_median": 130.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Terengganu",
+      "income_mean": 339,
+      "income_median": 199.0
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Terengganu",
+      "income_mean": 360,
+      "income_median": 258.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Terengganu",
+      "income_mean": 756,
+      "income_median": 524.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Terengganu",
+      "income_mean": 694,
+      "income_median": 472.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Terengganu",
+      "income_mean": 759,
+      "income_median": 520.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Terengganu",
+      "income_mean": 939,
+      "income_median": 680.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Terengganu",
+      "income_mean": 1117,
+      "income_median": 756.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Terengganu",
+      "income_mean": 1497,
+      "income_median": 1026.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Terengganu",
+      "income_mean": 1599,
+      "income_median": 1155.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Terengganu",
+      "income_mean": 1837,
+      "income_median": 1331.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Terengganu",
+      "income_mean": 1984,
+      "income_median": 1353.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Terengganu",
+      "income_mean": 2463,
+      "income_median": 1796.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Terengganu",
+      "income_mean": 3017,
+      "income_median": 2096.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Terengganu",
+      "income_mean": 3967,
+      "income_median": 3034.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Terengganu",
+      "income_mean": 4816,
+      "income_median": 3777.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Terengganu",
+      "income_mean": 5776,
+      "income_median": 4694.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Terengganu",
+      "income_mean": 6815,
+      "income_median": 5545.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Terengganu",
+      "income_mean": 6051,
+      "income_median": 4790.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Terengganu",
+      "income_mean": 7248,
+      "income_median": 5878.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Terengganu",
+      "income_mean": 7627,
+      "income_median": 6627.0
+    },
+    {
+      "date": "1976-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 1058,
+      "income_median": 645.0
+    },
+    {
+      "date": "1984-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 1920,
+      "income_median": 1217.0
+    },
+    {
+      "date": "1987-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 1790,
+      "income_median": 1180.0
+    },
+    {
+      "date": "1989-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 1824,
+      "income_median": 1294.0
+    },
+    {
+      "date": "1992-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 2429,
+      "income_median": 1753.0
+    },
+    {
+      "date": "1995-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 3371,
+      "income_median": 2321.0
+    },
+    {
+      "date": "1997-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 4768,
+      "income_median": 3090.0
+    },
+    {
+      "date": "1999-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 4105,
+      "income_median": 2828.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 4930,
+      "income_median": 3364.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 5011,
+      "income_median": 3336.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 5322,
+      "income_median": 3697.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 5488,
+      "income_median": 4409.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 8586,
+      "income_median": 5847.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 10629,
+      "income_median": 7620.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 11692,
+      "income_median": 9073.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 13257,
+      "income_median": 10549.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 11728,
+      "income_median": 9093.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 13325,
+      "income_median": 10234.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "income_mean": 13985,
+      "income_median": 10802.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 3726,
+      "income_median": 2777.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 4407,
+      "income_median": 3498.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 6317,
+      "income_median": 5063.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 7591,
+      "income_median": 5684.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 8174,
+      "income_median": 5928.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 8319,
+      "income_median": 6726.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 7333,
+      "income_median": 6126.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 8250,
+      "income_median": 6904.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "W.P. Labuan",
+      "income_mean": 8555,
+      "income_median": 7383.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 5294,
+      "income_median": 4288.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 6747,
+      "income_median": 5450.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 8101,
+      "income_median": 6486.0
+    },
+    {
+      "date": "2014-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 10401,
+      "income_median": 7512.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 11555,
+      "income_median": 8275.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 12840,
+      "income_median": 9983.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 12322,
+      "income_median": 9743.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 13473,
+      "income_median": 10056.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "W.P. Putrajaya",
+      "income_mean": 13846,
+      "income_median": 10769.0
+    }
+  ]
+}

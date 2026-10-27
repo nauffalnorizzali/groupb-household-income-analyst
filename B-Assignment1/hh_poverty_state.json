@@ -1,0 +1,2178 @@
+{
+  "dataset_id": "hh_poverty_state",
+  "source_url": "https://api.data.gov.my/data-catalogue/?id=hh_poverty_state",
+  "retrieved_at_utc": "2026-10-24T15:50:48+00:00",
+  "record_count": 310,
+  "records": [
+    {
+      "date": "1970-01-01",
+      "state": "Johor",
+      "poverty_absolute": 45.7,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Johor",
+      "poverty_absolute": 29.0,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Johor",
+      "poverty_absolute": 18.2,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Johor",
+      "poverty_absolute": 12.2,
+      "poverty_hardcore": 3.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Johor",
+      "poverty_absolute": 11.1,
+      "poverty_hardcore": 2.6,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Johor",
+      "poverty_absolute": 10.1,
+      "poverty_hardcore": 1.5,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Johor",
+      "poverty_absolute": 5.6,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Johor",
+      "poverty_absolute": 3.1,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 16.1
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Johor",
+      "poverty_absolute": 1.6,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 15.8
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Johor",
+      "poverty_absolute": 2.5,
+      "poverty_hardcore": 0.4,
+      "poverty_relative": 15.6
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Johor",
+      "poverty_absolute": 1.8,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 16.1
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Johor",
+      "poverty_absolute": 2.0,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 15.3
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Johor",
+      "poverty_absolute": 1.5,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 14.2
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Johor",
+      "poverty_absolute": 1.3,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 17.2
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Johor",
+      "poverty_absolute": 0.9,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.1
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Johor",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.2
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Johor",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 13.5
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Johor",
+      "poverty_absolute": 3.9,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 15.3
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Johor",
+      "poverty_absolute": 5.9,
+      "poverty_hardcore": 0.6,
+      "poverty_relative": 13.9
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Johor",
+      "poverty_absolute": 4.6,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 15.9
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Johor",
+      "poverty_absolute": 2.5,
+      "poverty_hardcore": 0.01,
+      "poverty_relative": 13.7
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 63.2,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 61.0,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 53.8,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 36.6,
+      "poverty_hardcore": 13.5,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 31.3,
+      "poverty_hardcore": 9.8,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 30.0,
+      "poverty_hardcore": 8.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 21.2,
+      "poverty_hardcore": 5.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 12.2,
+      "poverty_hardcore": 3.7,
+      "poverty_relative": 16.3
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 11.5,
+      "poverty_hardcore": 3.9,
+      "poverty_relative": 18.7
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 13.5,
+      "poverty_hardcore": 3.1,
+      "poverty_relative": 19.1
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 10.7,
+      "poverty_hardcore": 3.0,
+      "poverty_relative": 18.5
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 7.0,
+      "poverty_hardcore": 1.3,
+      "poverty_relative": 15.7
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 3.1,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 11.8
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 5.3,
+      "poverty_hardcore": 0.8,
+      "poverty_relative": 16.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 1.7,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.5
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 0.3,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 12.1
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 15.9
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 8.8,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 10.9
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 12.7,
+      "poverty_hardcore": 1.5,
+      "poverty_relative": 10.0
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 9.0,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 11.9
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Kedah",
+      "poverty_absolute": 8.4,
+      "poverty_hardcore": 0.08,
+      "poverty_relative": 13.4
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 76.1,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 67.1,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 55.0,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 39.2,
+      "poverty_hardcore": 15.5,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 31.6,
+      "poverty_hardcore": 7.6,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 29.9,
+      "poverty_hardcore": 7.2,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 29.5,
+      "poverty_hardcore": 8.7,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 22.9,
+      "poverty_hardcore": 7.4,
+      "poverty_relative": 20.8
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 19.5,
+      "poverty_hardcore": 5.7,
+      "poverty_relative": 17.8
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 18.7,
+      "poverty_hardcore": 4.3,
+      "poverty_relative": 16.7
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 12.4,
+      "poverty_hardcore": 3.6,
+      "poverty_relative": 15.4
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 10.6,
+      "poverty_hardcore": 1.3,
+      "poverty_relative": 12.1
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 7.2,
+      "poverty_hardcore": 1.5,
+      "poverty_relative": 10.2
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 4.8,
+      "poverty_hardcore": 1.0,
+      "poverty_relative": 11.4
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 2.7,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 14.3
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 0.9,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 12.4
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 0.4,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 12.1
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 12.4,
+      "poverty_hardcore": 1.0,
+      "poverty_relative": 9.9
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 21.2,
+      "poverty_hardcore": 4.1,
+      "poverty_relative": 11.4
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 13.2,
+      "poverty_hardcore": 0.8,
+      "poverty_relative": 12.2
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Kelantan",
+      "poverty_absolute": 11.5,
+      "poverty_hardcore": 0.11,
+      "poverty_relative": 10.8
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 44.9,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 32.4,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 20.4,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 15.8,
+      "poverty_hardcore": 5.5,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 11.7,
+      "poverty_hardcore": 3.8,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 12.4,
+      "poverty_hardcore": 3.8,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 8.5,
+      "poverty_hardcore": 1.8,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 5.3,
+      "poverty_hardcore": 1.6,
+      "poverty_relative": 15.8
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 3.6,
+      "poverty_hardcore": 0.6,
+      "poverty_relative": 15.7
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 5.7,
+      "poverty_hardcore": 1.5,
+      "poverty_relative": 17.2
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 2.7,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.1
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 1.8,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 16.3
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 1.8,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 16.5
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 0.5,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 14.8
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 0.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 15.4
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 0.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 8.8
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.7
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 3.9,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 17.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 6.1,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": 14.4
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 4.2,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 13.2
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Melaka",
+      "poverty_absolute": 3.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.3
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 44.8,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 33.0,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 26.3,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 13.0,
+      "poverty_hardcore": 3.7,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 21.5,
+      "poverty_hardcore": 5.5,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 9.5,
+      "poverty_hardcore": 2.2,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 8.1,
+      "poverty_hardcore": 1.8,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 4.9,
+      "poverty_hardcore": 1.0,
+      "poverty_relative": 15.1
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 4.5,
+      "poverty_hardcore": 1.2,
+      "poverty_relative": 15.6
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 2.5,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 17.1
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 2.2,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 18.1
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 1.4,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 16.8
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 1.3,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 15.3
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 0.7,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 12.7
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 0.5,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 15.5
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 0.4,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 13.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 15.5
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 4.3,
+      "poverty_hardcore": 0.4,
+      "poverty_relative": 11.6
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 6.5,
+      "poverty_hardcore": 1.2,
+      "poverty_relative": 10.5
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 4.4,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 13.3
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Negeri Sembilan",
+      "poverty_absolute": 4.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.9
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 43.2,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 38.9,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 26.9,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 15.7,
+      "poverty_hardcore": 5.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 12.3,
+      "poverty_hardcore": 2.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 10.2,
+      "poverty_hardcore": 2.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 6.9,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 6.8,
+      "poverty_hardcore": 1.2,
+      "poverty_relative": 13.8
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 4.1,
+      "poverty_hardcore": 0.8,
+      "poverty_relative": 10.3
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 5.5,
+      "poverty_hardcore": 0.4,
+      "poverty_relative": 9.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 3.8,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 12.8
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 4.0,
+      "poverty_hardcore": 1.0,
+      "poverty_relative": 14.0
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 1.7,
+      "poverty_hardcore": 0.4,
+      "poverty_relative": 9.4
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 2.1,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 12.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 1.3,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 12.7
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 0.7,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 12.1
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 8.2
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 4.3,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 6.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 8.8,
+      "poverty_hardcore": 1.0,
+      "poverty_relative": 7.3
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 6.3,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 7.7
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Pahang",
+      "poverty_absolute": 5.9,
+      "poverty_hardcore": 0.03,
+      "poverty_relative": 6.8
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Perak",
+      "poverty_absolute": 48.6,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Perak",
+      "poverty_absolute": 43.0,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Perak",
+      "poverty_absolute": 30.5,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Perak",
+      "poverty_absolute": 20.3,
+      "poverty_hardcore": 6.7,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Perak",
+      "poverty_absolute": 19.9,
+      "poverty_hardcore": 5.8,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Perak",
+      "poverty_absolute": 19.3,
+      "poverty_hardcore": 4.9,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Perak",
+      "poverty_absolute": 10.2,
+      "poverty_hardcore": 1.9,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Perak",
+      "poverty_absolute": 9.1,
+      "poverty_hardcore": 1.9,
+      "poverty_relative": 16.5
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Perak",
+      "poverty_absolute": 4.5,
+      "poverty_hardcore": 0.9,
+      "poverty_relative": 15.4
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Perak",
+      "poverty_absolute": 9.5,
+      "poverty_hardcore": 1.4,
+      "poverty_relative": 15.7
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Perak",
+      "poverty_absolute": 7.9,
+      "poverty_hardcore": 1.3,
+      "poverty_relative": 17.6
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Perak",
+      "poverty_absolute": 4.9,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": 18.4
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Perak",
+      "poverty_absolute": 3.4,
+      "poverty_hardcore": 0.7,
+      "poverty_relative": 14.3
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Perak",
+      "poverty_absolute": 3.5,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 13.3
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Perak",
+      "poverty_absolute": 1.5,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 18.6
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Perak",
+      "poverty_absolute": 0.7,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.0
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Perak",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 14.1
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Perak",
+      "poverty_absolute": 7.3,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 11.3
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Perak",
+      "poverty_absolute": 11.4,
+      "poverty_hardcore": 1.5,
+      "poverty_relative": 11.1
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Perak",
+      "poverty_absolute": 7.5,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 13.5
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Perak",
+      "poverty_absolute": 6.9,
+      "poverty_hardcore": 0.06,
+      "poverty_relative": 11.4
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 73.9,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 59.8,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 63.1,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 33.7,
+      "poverty_hardcore": 11.7,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 29.1,
+      "poverty_hardcore": 7.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 17.2,
+      "poverty_hardcore": 3.2,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 19.8,
+      "poverty_hardcore": 4.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 11.8,
+      "poverty_hardcore": 2.7,
+      "poverty_relative": 13.1
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 10.6,
+      "poverty_hardcore": 2.6,
+      "poverty_relative": 15.1
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 13.3,
+      "poverty_hardcore": 2.8,
+      "poverty_relative": 15.7
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 10.1,
+      "poverty_hardcore": 1.8,
+      "poverty_relative": 19.5
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 6.3,
+      "poverty_hardcore": 1.7,
+      "poverty_relative": 15.8
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 6.8,
+      "poverty_hardcore": 1.4,
+      "poverty_relative": 18.9
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 6.0,
+      "poverty_hardcore": 0.8,
+      "poverty_relative": 17.0
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 1.9,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 19.2
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.1
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 0.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 12.0
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 3.9,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 12.0
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 9.9,
+      "poverty_hardcore": 1.4,
+      "poverty_relative": 14.3
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 4.0,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 12.6
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Perlis",
+      "poverty_absolute": 3.6,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.3
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 43.7,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 32.4,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 19.7,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 13.4,
+      "poverty_hardcore": 4.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 12.9,
+      "poverty_hardcore": 4.0,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 8.9,
+      "poverty_hardcore": 2.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 4.0,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 4.0,
+      "poverty_hardcore": 0.7,
+      "poverty_relative": 18.4
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 1.6,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 16.5
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 2.7,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 16.6
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 1.4,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 20.3
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 0.3,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 15.8
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 1.4,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 15.2
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 1.2,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 15.4
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 0.6,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 16.5
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 0.3,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 12.4
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 0.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 6.6
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 1.9,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 13.2
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 3.3,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 12.2
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 2.0,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 15.3
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Pulau Pinang",
+      "poverty_absolute": 1.9,
+      "poverty_hardcore": 0.03,
+      "poverty_relative": 15.1
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 58.3,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 40.7,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 33.1,
+      "poverty_hardcore": 9.7,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 35.3,
+      "poverty_hardcore": 8.7,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 29.7,
+      "poverty_hardcore": 9.3,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 27.8,
+      "poverty_hardcore": 6.8,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 22.6,
+      "poverty_hardcore": 4.9,
+      "poverty_relative": 19.6
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 22.1,
+      "poverty_hardcore": 2.0,
+      "poverty_relative": 19.7
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 20.1,
+      "poverty_hardcore": 3.4,
+      "poverty_relative": 16.3
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 16.0,
+      "poverty_hardcore": 3.1,
+      "poverty_relative": 21.1
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 24.2,
+      "poverty_hardcore": 6.9,
+      "poverty_relative": 21.2
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 16.4,
+      "poverty_hardcore": 3.8,
+      "poverty_relative": 15.8
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 19.7,
+      "poverty_hardcore": 4.8,
+      "poverty_relative": 19.5
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 8.1,
+      "poverty_hardcore": 1.6,
+      "poverty_relative": 18.6
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 4.0,
+      "poverty_hardcore": 0.6,
+      "poverty_relative": 16.3
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 2.9,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 17.6
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 19.5,
+      "poverty_hardcore": 1.5,
+      "poverty_relative": 14.7
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 25.3,
+      "poverty_hardcore": 2.7,
+      "poverty_relative": 13.2
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 19.7,
+      "poverty_hardcore": 1.2,
+      "poverty_relative": 14.5
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Sabah",
+      "poverty_absolute": 17.7,
+      "poverty_hardcore": 0.73,
+      "poverty_relative": 14.2
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 56.5,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 47.8,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 31.9,
+      "poverty_hardcore": 10.0,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 24.7,
+      "poverty_hardcore": 4.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 21.0,
+      "poverty_hardcore": 3.3,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 19.2,
+      "poverty_hardcore": 3.0,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 10.0,
+      "poverty_hardcore": 1.3,
+      "poverty_relative": 17.9
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 7.5,
+      "poverty_hardcore": 0.7,
+      "poverty_relative": 16.8
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 6.7,
+      "poverty_hardcore": 0.7,
+      "poverty_relative": 16.2
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 5.8,
+      "poverty_hardcore": 0.6,
+      "poverty_relative": 18.0
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 7.5,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": 15.1
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 4.2,
+      "poverty_hardcore": 0.7,
+      "poverty_relative": 13.6
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 5.3,
+      "poverty_hardcore": 1.0,
+      "poverty_relative": 16.4
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 2.4,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 19.6
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 0.9,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 17.1
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 0.6,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.8
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 9.0,
+      "poverty_hardcore": 0.4,
+      "poverty_relative": 15.2
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 12.9,
+      "poverty_hardcore": 0.9,
+      "poverty_relative": 12.3
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 10.8,
+      "poverty_hardcore": 0.4,
+      "poverty_relative": 16.2
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Sarawak",
+      "poverty_absolute": 8.4,
+      "poverty_hardcore": 0.11,
+      "poverty_relative": 14.6
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 29.2,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 22.9,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 14.5,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 8.6,
+      "poverty_hardcore": 2.5,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 8.9,
+      "poverty_hardcore": 1.9,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 7.8,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 4.3,
+      "poverty_hardcore": 0.6,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 2.2,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 19.4
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 1.3,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 20.2
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 2.0,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 19.0
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 1.1,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 17.3
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 1.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 17.8
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 0.7,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.0
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 0.7,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.2
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 0.4,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 15.6
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.1
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.7
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 1.2,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 15.3
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 1.7,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 13.9
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 1.5,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 14.2
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Selangor",
+      "poverty_absolute": 0.9,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 8.5
+    },
+    {
+      "date": "1970-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 68.9,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1976-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 60.3,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1979-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 53.1,
+      "poverty_hardcore": null,
+      "poverty_relative": null
+    },
+    {
+      "date": "1984-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 28.9,
+      "poverty_hardcore": 11.6,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 36.1,
+      "poverty_hardcore": 15.1,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 31.2,
+      "poverty_hardcore": 10.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 25.6,
+      "poverty_hardcore": 9.2,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 23.4,
+      "poverty_hardcore": 7.5,
+      "poverty_relative": 18.7
+    },
+    {
+      "date": "1997-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 17.3,
+      "poverty_hardcore": 5.0,
+      "poverty_relative": 19.8
+    },
+    {
+      "date": "1999-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 14.9,
+      "poverty_hardcore": 4.9,
+      "poverty_relative": 18.7
+    },
+    {
+      "date": "2002-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 10.7,
+      "poverty_hardcore": 2.8,
+      "poverty_relative": 15.8
+    },
+    {
+      "date": "2004-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 15.4,
+      "poverty_hardcore": 4.4,
+      "poverty_relative": 16.1
+    },
+    {
+      "date": "2007-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 6.4,
+      "poverty_hardcore": 0.8,
+      "poverty_relative": 13.3
+    },
+    {
+      "date": "2009-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 4.0,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": 12.1
+    },
+    {
+      "date": "2012-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 1.7,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 20.5
+    },
+    {
+      "date": "2014-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 0.6,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 13.7
+    },
+    {
+      "date": "2016-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 0.4,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.2
+    },
+    {
+      "date": "2019-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 6.1,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": 8.2
+    },
+    {
+      "date": "2020-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 12.0,
+      "poverty_hardcore": 1.1,
+      "poverty_relative": 10.7
+    },
+    {
+      "date": "2022-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 6.2,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 6.9
+    },
+    {
+      "date": "2024-01-01",
+      "state": "Terengganu",
+      "poverty_absolute": 5.8,
+      "poverty_hardcore": 0.08,
+      "poverty_relative": 9.9
+    },
+    {
+      "date": "1984-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 4.9,
+      "poverty_hardcore": 1.4,
+      "poverty_relative": null
+    },
+    {
+      "date": "1987-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 5.2,
+      "poverty_hardcore": 1.0,
+      "poverty_relative": null
+    },
+    {
+      "date": "1989-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 3.8,
+      "poverty_hardcore": 0.5,
+      "poverty_relative": null
+    },
+    {
+      "date": "1992-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 1.7,
+      "poverty_hardcore": 0.3,
+      "poverty_relative": null
+    },
+    {
+      "date": "1995-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.5,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 17.3
+    },
+    {
+      "date": "1997-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.1,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 18.8
+    },
+    {
+      "date": "1999-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 2.3,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 17.4
+    },
+    {
+      "date": "2002-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.5,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 18.2
+    },
+    {
+      "date": "2004-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 1.5,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 18.7
+    },
+    {
+      "date": "2007-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 1.5,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 17.8
+    },
+    {
+      "date": "2009-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.7,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 16.8
+    },
+    {
+      "date": "2012-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.8,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 12.3
+    },
+    {
+      "date": "2014-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 13.3
+    },
+    {
+      "date": "2016-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 13.8
+    },
+    {
+      "date": "2019-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.6
+    },
+    {
+      "date": "2020-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 0.4,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 9.1
+    },
+    {
+      "date": "2022-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 1.4,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 12.7
+    },
+    {
+      "date": "2024-01-01",
+      "state": "W.P. Kuala Lumpur",
+      "poverty_absolute": 1.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.8
+    },
+    {
+      "date": "1999-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": null,
+      "poverty_hardcore": null,
+      "poverty_relative": 21.6
+    },
+    {
+      "date": "2002-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": null,
+      "poverty_hardcore": null,
+      "poverty_relative": 21.6
+    },
+    {
+      "date": "2004-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 2.7,
+      "poverty_hardcore": 0.2,
+      "poverty_relative": 14.1
+    },
+    {
+      "date": "2007-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 4.2,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 15.3
+    },
+    {
+      "date": "2009-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 4.3,
+      "poverty_hardcore": 0.7,
+      "poverty_relative": 17.9
+    },
+    {
+      "date": "2012-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 1.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 17.6
+    },
+    {
+      "date": "2014-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 1.1,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 14.1
+    },
+    {
+      "date": "2016-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.6
+    },
+    {
+      "date": "2019-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 3.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 12.9
+    },
+    {
+      "date": "2020-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 5.2,
+      "poverty_hardcore": 0.1,
+      "poverty_relative": 11.8
+    },
+    {
+      "date": "2022-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 2.5,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 7.0
+    },
+    {
+      "date": "2024-01-01",
+      "state": "W.P. Labuan",
+      "poverty_absolute": 2.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 13.7
+    },
+    {
+      "date": "2007-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 16.6
+    },
+    {
+      "date": "2009-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.1
+    },
+    {
+      "date": "2012-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 4.9
+    },
+    {
+      "date": "2014-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 7.9
+    },
+    {
+      "date": "2016-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.0,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 6.8
+    },
+    {
+      "date": "2019-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.4,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 12.1
+    },
+    {
+      "date": "2020-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.2
+    },
+    {
+      "date": "2022-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.1,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 11.4
+    },
+    {
+      "date": "2024-01-01",
+      "state": "W.P. Putrajaya",
+      "poverty_absolute": 0.2,
+      "poverty_hardcore": 0.0,
+      "poverty_relative": 10.9
+    }
+  ]
+}
